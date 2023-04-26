@@ -17,11 +17,10 @@ Es importante implementar una estructura de malla que permita la liberación de 
 
 https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
 
-
 https://www.statista.com/statistics/314848/argentina-number-of-internet-users/
-
 
 https://www.statista.com/statistics/379962/argentina-internet-user-penetration/
 
-
 https://www.censo.gob.ar/index.php/datos_provisionales/
+
+https://www.idecom.gob.ar/mapa/?zoom=7&lat=-49.7245&lng=-66.4673&layers=argenmap#
