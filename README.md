@@ -29,6 +29,10 @@ El archivo internet_users_argentina_2019_2028.csv cuenta con la información de 
 El archivo provincias.csv tiene información geográfica de cada una de las provincias, para utilizar en un mapa en Power BI.
 
 El archivo puntos_de_ciencia_y_educacion_020602.kml tiene información geográfica de cada una de las instituciones de educación presentes a lo largo de toda la Argentina, para utilizar en un mapa en Power BI.
+
+Los archivos csv que empiezan con 'df' son los archivos utilizados en power BI, creados en el EDA.
+
+El archivo tec_2022_q3.csv es un merge de los datasets del indec y internet por tecnología para realizar tasas en Power BI.
 ## Herramientas y lenguajes usados:
 
 Visual Studio Code.
